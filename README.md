@@ -18,4 +18,6 @@ The all project is coded under PEP-8 (https://peps.python.org/pep-0008/) and fla
 
 ## Screenshot
 
+![alt text](https://github.com/HippolyteGuigon/CAFA_5_Protein_Function_Prediction/blob/main/ressources/Computational_solvent_mapping_of_AMA1_using_FTMAP.TIF.jpg)
+
 ## How to use ?
