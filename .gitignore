@@ -1,3 +1,12 @@
+#Excluded files 
+
+*.tsv
+*.fasta
+*.obo
+*.ipynb
+*.txt
+*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
